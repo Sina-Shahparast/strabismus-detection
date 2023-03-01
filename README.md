@@ -18,8 +18,8 @@ Results on the test data after training:
 
 ### Model Input Data
 
-The model gets 23:9 ratio image of eyes as input to detect strabismus. A sample Image of input data is given below.
-![Sampel Image](./example/normal.jpg)
+The model gets 23:9 ratio image of eyes as input to detect strabismus. A sample image of input data is given below.
+![Sample Image](./example/normal.jpg)
 
 ## Usage Instructions
 
