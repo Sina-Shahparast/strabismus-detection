@@ -23,7 +23,7 @@ def strabismus_predict(image_path:str):
     img_batch = np.expand_dims(img, 0)
 
     # Loading Model
-    model_dir = './data/models/model.h5'
+    model_dir = './model/model.h5'
     model = tf.keras.models.load_model(model_dir)
 
     # Make Prediction
