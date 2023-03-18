@@ -21,6 +21,13 @@ Results on the test data after training:
 The model gets 23:9 ratio image of eyes as input to detect strabismus. A sample image of input data is given below.
 ![Sample Image](./example/normal.jpg)
 
+## Installation Instructions
+
+1. Make sure [git-lfs](https://git-lfs.com/) is installed. Otherwise the model won't be properly downloaded.
+1. Clone the repository: `git clone git@github.com:Sina-Shahparast/strabismus-detection.git`
+1. Install dependencies: `pip install -r requirements.txt`
+1. Test if example works: `python strabismus_predict.py`
+
 ## Usage Instructions
 
 You can use use this model in two ways.
