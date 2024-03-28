@@ -39,3 +39,8 @@ The model can be used in these two ways.
 ### Use presented function with python
 
 To use "strabismus_predict" function give it image path as string.
+
+---
+
+### Note
+The model file `model/model.h5` is tracked by Git LFS (Large File Storage). If you're encountering issues with pulling the model file, ensure that Git LFS is installed on your system. You can find installation instructions [here](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage).
